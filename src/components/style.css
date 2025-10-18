@@ -13,7 +13,7 @@
 .header{
     grid-area: header;
     background: #333;
-    color: blue;
+    color: green;
     display: flex;
     align-items: center;
     padding: 0 20px;
